@@ -5,8 +5,8 @@ class SimpleDiskBenchmark < Formula
     desc "Cross-platform Text Expander written in Rust"
     homepage "https://github.com/schwa/simple-disk-benchmark-rs"
     url "https://github.com/schwa/simple-disk-benchmark-rs/releases/latest/download/simple-disk-benchmark.tar.gz"
-    sha256 "c80533256af6db0263ccd415fd8d39621303f12d147a9d938ab23c628872f2df"
-    version "0.1.8:"
+    sha256 "be118129bca4016e5a17edbe02436510df67f4a546cc4f69d27e688dbc97dba8"
+    version "0.1.8"
 
     def install
       bin.install "simple-disk-benchmark"
