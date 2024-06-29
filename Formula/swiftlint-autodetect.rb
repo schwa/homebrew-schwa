@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class SwiftLintAutodetect < Formula
+class SwiftlintAutodetect < Formula
     desc "Cross-platform Text Expander written in Rust"
     homepage "https://github.com/schwa/swiftlint-autodetect"
     url "https://github.com/schwa/swiftlint-autodetect/releases/latest/download/swiftlint-autodetect.tar.gz"
