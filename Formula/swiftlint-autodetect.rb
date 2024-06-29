@@ -5,8 +5,8 @@ class SwiftlintAutodetect < Formula
     desc "Cross-platform Text Expander written in Rust"
     homepage "https://github.com/schwa/swiftlint-autodetect"
     url "https://github.com/schwa/swiftlint-autodetect/releases/latest/download/swiftlint-autodetect.tar.gz"
-    sha256 "be3c18ea55c29255dbe4fc904f0ecbcc7397a9474ccd0d70f8629ffb8e1a7415"
-    version "0.1.2"
+    sha256 "223cc98a1009c6f6cbcc08de372a7733002d49bac01c6c0fe6839da1d259db92"
+    version "0.1.3"
 
     def install
       bin.install "swiftlint-autodetect"
