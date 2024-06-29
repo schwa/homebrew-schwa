@@ -5,8 +5,8 @@ class SimpleDiskBenchmark < Formula
     desc "Cross-platform Text Expander written in Rust"
     homepage "https://github.com/schwa/swiftlint-autodetect"
     url "https://github.com/schwa/simple-disk-benchmark-rs/releases/latest/download/swiftlint-autodetect.tar.gz"
-    sha256 "beb64bfddfc11c3a993cae6f56fa0be19e93eba04dc6d25081ebd756f0e00347"
-    version "0.1.0"
+    sha256 "be3c18ea55c29255dbe4fc904f0ecbcc7397a9474ccd0d70f8629ffb8e1a7415"
+    version "0.1.2"
 
     def install
       bin.install "swiftlint-autodetect"
