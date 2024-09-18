@@ -4,7 +4,7 @@
 class Multigit < Formula
     desc "A CLI tool to manage multiple Git repositories simultaneously."
     homepage "https://github.com/schwa/multigit-rs"
-    url "https://github.com/schwa/multigit-rs/releases/latest/download/multigit-rs-0.1.1.tar.gz"
+    url "https://github.com/schwa/multigit-rs/archive/refs/tags/0.1.1.tar.gz"
     sha256 "fe12755045051c5e45bd73eac6bbaabae30f7d0b45159fdc78170e3504a84211"
     version "0.1.1"
 
