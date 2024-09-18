@@ -9,6 +9,6 @@ class Multigit < Formula
     version "0.1.1"
 
     def install
-      bin.install "multigit"
+      bin.install "multigit-rs"
     end
   end
